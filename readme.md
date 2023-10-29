@@ -20,7 +20,7 @@ Translate From one regional language to another.
 
 # Endpoints
 
-## `/scaler/translate/`
+## `POST /scaler/translate/`
 ####  Payload Schema
 ```json
 {
